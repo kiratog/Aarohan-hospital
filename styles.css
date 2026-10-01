@@ -366,7 +366,7 @@ form textarea::placeholder{
     margin: 3rem 0;
 }
 .about-h{
-    background-image: url('./assets/building.png');
+    background-image: url('./assets/building.webp');
     height: 35vh;
     display: flex;
     align-items: center;
